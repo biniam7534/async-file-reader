@@ -1,0 +1,1 @@
+MERN stack development involves MongoDB, Express, React, and Node.js. This project brings them all together. This is file C.

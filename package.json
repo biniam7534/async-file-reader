@@ -1,0 +1,12 @@
+{
+    "name": "async-file-reader-mern",
+    "version": "1.0.0",
+    "scripts": {
+        "start:backend": "cd backend && npm run dev",
+        "start:frontend": "cd frontend/frontend && npm start",
+        "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    }
+}
